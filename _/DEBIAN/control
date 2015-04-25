@@ -1,0 +1,10 @@
+Package: com.ziph0n.karma4ever
+Name: Karma4Ever
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Are you sick of the truncated karma in Alien Blue?
+Maintainer: Ziph0n
+Author: Ziph0n
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 204

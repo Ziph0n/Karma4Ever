@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Karma4Ever;
+	cell = PSLinkCell;
+	detail = Karma4EverListController;
+	icon = Karma4Ever.png;
+	isController = 1;
+	label = Karma4Ever;
+    };
+}
